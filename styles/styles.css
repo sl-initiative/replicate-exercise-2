@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+
+body {
+    background-color: beige;
+    text-align      : center;
+    font-family     : 'Libre Baskerville';
+}
+
+
+h1 {
+    color: orange;
+}
+
+h2 {
+    color: green;
+}
+
+#preview-box {
+    border: 2px solid black;
+}
+
+li {
+    list-style-position: inside;
+}
+
+img {
+    width : 25%;
+    border: 2px solid green;
+}
